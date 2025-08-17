@@ -13,4 +13,6 @@ public class Order {
     private String name;
     private  Integer qty;
     private  Double price;
+
+    //for testing
 }
