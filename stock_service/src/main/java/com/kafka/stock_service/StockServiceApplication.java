@@ -1,13 +1,13 @@
-package com.kafka.stack_service;
+package com.kafka.stock_service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class StackServiceApplication {
+public class StockServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(StackServiceApplication.class, args);
+		SpringApplication.run(StockServiceApplication.class, args);
 	}
 
 }
